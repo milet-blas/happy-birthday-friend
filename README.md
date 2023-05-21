@@ -1,7 +1,5 @@
 # Happy Birthday
 
-Website - [Happy Birthday](https://rishabh04-02.github.io/happy-birthday/)
+Website - [Happy Birthday](https://milet-blas.github.io/happy-birthday-friend/)
 
 An easy to deploy, Happy Birthday animation design TEMPLATE.
-
-View Deployments [here](https://github.com/Rishabh04-02/happy-birthday/deployments)
